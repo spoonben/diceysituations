@@ -1,0 +1,13 @@
+.logo {
+  width: 200px;
+}
+
+.App-header {
+  background: #4D4D4D;
+  color: #fff;
+  font-weight: 300;
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
